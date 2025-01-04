@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active{
+  color: yellow;
+}
+.marquee:hover{
+  animation-play-state: paused;
+}

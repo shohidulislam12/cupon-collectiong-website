@@ -1,0 +1,264 @@
+[
+    {
+      "_id": "1",
+      "brand_name": "ShopEasy",
+      "rating": 4.5,
+      "description": "Your go-to online store for all essentials at the best prices.",
+      "brand_logo": "https://i.postimg.cc/C5SHQzhQ/images.jpg",
+      "coupons": [
+        {
+          "coupon_code": "EASY20",
+          "description": "20% off on orders above $50",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid on select items only",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREESHIP",
+          "description": "Free shipping on all orders",
+          "expiry_date": "2024-11-30",
+          "condition": "No minimum order value",
+          "coupon_type": "Shipping"
+        }
+      ],
+      "shop_Link": "https://www.shopeasy.com",
+      "category": "General",
+      "isSaleOn": true
+    },
+    {
+      "_id": "2",
+      "brand_name": "GadgetZone",
+      "rating": 4.8,
+      "description": "Latest gadgets and electronics at unbeatable prices.",
+      "brand_logo": "https://i.postimg.cc/G3xjsJzw/download9.png",
+      "coupons": [
+        {
+          "coupon_code": "GADGET10",
+          "description": "Flat 10% off on all electronics",
+          "expiry_date": "2024-12-15",
+          "condition": "Excludes accessories",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "NEWUSER50",
+          "description": "50% off for first-time buyers",
+          "expiry_date": "2024-11-25",
+          "condition": "Max discount $20",
+          "coupon_type": "New User"
+        }
+      ],
+      "shop_Link": "https://www.gadgetzone.com",
+      "category": "Electronics",
+      "isSaleOn": false
+    },
+    {
+      "_id": "3",
+      "brand_name": "FashionHub",
+      "rating": 4.3,
+      "description": "Trendy and affordable fashion for all.",
+      "brand_logo": "https://i.postimg.cc/t4Ydw0bp/images1.png",
+      "coupons": [
+        {
+          "coupon_code": "STYLE15",
+          "description": "15% off on all apparel",
+          "expiry_date": "2024-12-01",
+          "condition": "Applicable on orders above $30",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "CLEARANCE50",
+          "description": "Up to 50% off on clearance items",
+          "expiry_date": "2024-12-31",
+          "condition": "While stocks last",
+          "coupon_type": "Sale"
+        }
+      ],
+      "shop_Link": "https://www.fashionhub.com",
+      "category": "Fashion",
+      "isSaleOn": true
+    },
+    {
+      "_id": "4",
+      "brand_name": "BookWorld",
+      "rating": 4.7,
+      "description": "Explore a world of books and educational resources.",
+      "brand_logo": "https://i.postimg.cc/xdmvjKqZ/images2.jpg",
+      "coupons": [
+        {
+          "coupon_code": "READ20",
+          "description": "20% off on all books",
+          "expiry_date": "2024-12-10",
+          "condition": "Minimum purchase $20",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "TEXTBOOK30",
+          "description": "30% off on textbooks",
+          "expiry_date": "2024-12-05",
+          "condition": "For students only",
+          "coupon_type": "Student"
+        }
+      ],
+      "shop_Link": "https://www.bookworld.com",
+      "category": "Books",
+      "isSaleOn": false
+    },
+    {
+      "_id": "5",
+      "brand_name": "TechMarket",
+      "rating": 4.6,
+      "description": "Affordable technology for everyone.",
+      "brand_logo": "https://i.postimg.cc/50q8LbBq/images3jpg.jpg",
+      "coupons": [
+        {
+          "coupon_code": "TECH25",
+          "description": "25% off on accessories",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid for members only",
+          "coupon_type": "Membership"
+        },
+        {
+          "coupon_code": "BLACKFRIDAY",
+          "description": "Black Friday deals up to 70% off",
+          "expiry_date": "2024-11-28",
+          "condition": "Limited to 1 order per user",
+          "coupon_type": "Sale"
+        }
+      ],
+      "shop_Link": "https://www.techmarket.com",
+      "category": "Technology",
+      "isSaleOn": true
+    },
+    {
+      "_id": "6",
+      "brand_name": "BeautyBazaar",
+      "rating": 4.4,
+      "description": "All your beauty and skincare needs in one place.",
+      "brand_logo": "https://i.postimg.cc/tCfn1s0G/images4.jpg",
+      "coupons": [
+        {
+          "coupon_code": "BEAUTY10",
+          "description": "Flat 10% off on all skincare products",
+          "expiry_date": "2024-12-20",
+          "condition": "Minimum purchase $25",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "HOLIDAYGLOW",
+          "description": "Exclusive holiday discounts up to 40%",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for holiday collections",
+          "coupon_type": "Holiday"
+        }
+      ],
+      "shop_Link": "https://www.beautybazaar.com",
+      "category": "Beauty",
+      "isSaleOn": true
+    },
+    {
+      "_id": "7",
+      "brand_name": "FitnessPro",
+      "rating": 4.8,
+      "description": "Fitness equipment and apparel for professionals and beginners.",
+      "brand_logo": "https://i.postimg.cc/4yynygB3/images5.png",
+      "coupons": [
+        {
+          "coupon_code": "FITPRO20",
+          "description": "20% off on gym equipment",
+          "expiry_date": "2024-12-15",
+          "condition": "Minimum order $100",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "NEWYEARFIT",
+          "description": "Up to 50% off on fitness wear",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid on select products",
+          "coupon_type": "New Year"
+        }
+      ],
+      "shop_Link": "https://www.fitnesspro.com",
+      "category": "Fitness",
+      "isSaleOn": true
+    },
+    {
+      "_id": "8",
+      "brand_name": "TravelEasy",
+      "rating": 4.9,
+      "description": "Best deals on travel tickets and hotel bookings.",
+      "brand_logo": "https://i.postimg.cc/tRvYfs4n/images6.png",
+      "coupons": [
+        {
+          "coupon_code": "TRAVEL50",
+          "description": "Flat $50 off on flights",
+          "expiry_date": "2024-11-30",
+          "condition": "For round trips only",
+          "coupon_type": "Travel"
+        },
+        {
+          "coupon_code": "HOTEL20",
+          "description": "20% off on hotel stays",
+          "expiry_date": "2024-12-25",
+          "condition": "Minimum booking 2 nights",
+          "coupon_type": "Hotel"
+        }
+      ],
+      "shop_Link": "https://www.traveleasy.com",
+      "category": "Travel",
+      "isSaleOn": true
+    },
+    {
+      "_id": "9",
+      "brand_name": "GroceryMart",
+      "rating": 4.2,
+      "description": "Fresh groceries delivered to your doorstep.",
+      "brand_logo": "https://i.postimg.cc/m20hLKMb/images7.png",
+      "coupons": [
+        {
+          "coupon_code": "FRESH10",
+          "description": "10% off on fresh produce",
+          "expiry_date": "2024-11-20",
+          "condition": "Minimum purchase $20",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "DELIVERYFREE",
+          "description": "Free delivery on orders above $50",
+          "expiry_date": "2024-12-01",
+          "condition": "Excludes sale items",
+          "coupon_type": "Shipping"
+        }
+      ],
+      "shop_Link": "https://www.grocerymart.com",
+      "category": "Grocery",
+      "isSaleOn": false
+    },
+    {
+      "_id": "10",
+      "brand_name": "PetCare",
+      "rating": 4.6,
+      "description": "Everything your pets need at the best prices.",
+      "brand_logo": "https://i.postimg.cc/g28jn4q3/images8.png",
+      "coupons": [
+        {
+          "coupon_code": "PETFOOD15",
+          "description": "15% off on pet food",
+          "expiry_date": "2024-12-10",
+         
+          "condition": "Minimum purchase $30",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREECHEWTOY",
+          "description": "Free chew toy with purchases over $50",
+          "expiry_date": "2024-12-20",
+          "condition": "Valid for dog supplies only",
+          "coupon_type": "Bonus"
+        }
+      ],
+      "shop_Link": "https://www.petcare.com",
+      "category": "Pet Supplies",
+      "isSaleOn": true
+    }
+  ]
+    
