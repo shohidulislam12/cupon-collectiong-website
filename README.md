@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img height="400" src="https://i.ibb.co.com/y8LsCHV/Screenshot-2025-01-04-223758.png"  />
+</div>
+
+###
 Here's a simple readme file for fproject :
 
 # **Project Name: Coupon Collecting  Website**
